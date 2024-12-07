@@ -1,0 +1,6 @@
+rootProject.name = 'CURSACH_BACK'
+include 'auth'
+include 'delivery'
+include 'orders'
+include 'menu'
+include 'restaurant'
